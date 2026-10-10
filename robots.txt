@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aayushchahar64.github.io/Game-Master/sitemap.xml
